@@ -1,0 +1,25 @@
+// app global css in SCSS form
+.darked {
+    background-color:rgba(0, 0, 0, 0.288) ;
+    height: 99.8vh;
+}
+
+.outlined {
+    border: 1px solid red;
+}
+
+.no {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.blured {
+    background-color: rgba(255, 255, 255, 0.199);
+}
+.blacked {
+    background-color: rgba(2, 2, 2, 0.479);
+}
+
+.underline {
+    text-decoration: underline;
+}
