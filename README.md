@@ -1,4 +1,4 @@
-# Quasar App (simple)
+# Schedule Screen or Panel
 
 A simple screen showing the given romm current schedule and upcoming one a short description such as partcipants it will show assigned time for all schedules.
 
