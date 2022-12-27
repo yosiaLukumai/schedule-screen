@@ -1,6 +1,6 @@
 # Quasar App (simple)
 
-A simple dashboard for managing rooms schedules
+A simple screen showing the given romm current schedule and upcoming one a short description such as partcipants it will show assigned time for all schedules.
 
 ## use cases
 
